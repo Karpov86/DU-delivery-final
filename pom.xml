@@ -12,7 +12,7 @@
 	<artifactId>delivery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>delivery</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>Study project for DU IT college</description>
 
 	<properties>
