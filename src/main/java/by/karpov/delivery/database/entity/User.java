@@ -20,7 +20,7 @@ import java.util.Set;
 @Proxy
 public class User extends BaseEntity implements UserDetails {
 
-    @Column(name = "username")
+    @Column
     private String username;
 
     @Column(name = "password")
